@@ -1,4 +1,4 @@
 # Store-App
-I just try to basic app a store application that you can buy books and music cd's with java code's.
+I just try to do basic app a store application that you can buy books and music cd's with Java.
 Also this project needs UI because this is just a console app right now.
-I developed this project in my intern procces and ı will think about this project I will add UI.
+I developed this project in my intern proccess. I will think about this project and ı will continue to develop it and add Database,UI and something like that.
